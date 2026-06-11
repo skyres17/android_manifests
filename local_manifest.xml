@@ -43,4 +43,8 @@
 
         <!-- Leds Package -->
         <project name="Ingres-Centre/android_packages_apps_leds" path="packages/apps/Leds" remote="local-github" revision="lineage-23.0" />
+
+        <!--Miui Camera -->
+        <project name="Gurinbone/android_device_xiaomi_miuicamera-ingres" path="device/xiaomi/miuicamera-ingres" remote="github" revision="lineage-23.2" />
+        <project name="Gurinbone/vendor_xiaomi_miuicamera-ingres" path="vendor/xiaomi/miuicamera-ingres" remote="github" revision="lineage-23.2" />
 </manifest>
