@@ -15,7 +15,7 @@
         <project path="external/rust/android-crates-io" name="platform/external/rust/android-crates-io" groups="pdk" remote="aosp2" />
 
         <!-- INGRES (FORK RAFAEL) -->
-        <project name="skyres17/android_device_xiaomi_ingres" path="device/xiaomi/ingres" remote="local-github" revision="lineage-23.2" />
+        <project name="skyres17/android_device_xiaomi_ingres" path="device/xiaomi/ingres" remote="local-github" revision="infinity-16" />
         <project name="Ingres-Centre/proprietary_vendor_xiaomi_ingres" path="vendor/xiaomi/ingres" remote="local-github" revision="lineage-23.1" />
 
         <!-- SM8450 -->
